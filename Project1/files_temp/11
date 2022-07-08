@@ -1,0 +1,44 @@
+// Input01
+Bla foo http://info.cern.ch/hypertext/WWW/TheProject.html blablabla
+werqiuehrasdjkf http://di.uoa.gr/announcements werjaoir http://cgi.di.uoa.gr/~mema/courses/k24/k24.html
+
+this is a test file http://www.google.com http://www.google.com/some/invalid/path ok
+// Input02
+Bla foo sfd
+
+
+eorkeor weokeowk http://www.google.com/search?client=firefox-b-d&q=dummy+files+with+URLs+as+text blablabla
+werqiuehrasdjkf http://jeffe.cs.illinois.edu/teaching/algorithms/? werjaoir
+erkoe dfosfam
+
+df http://www.somedummyurl.com/
+
+this is a test file http://www.electronics-tutorials.ws/
+another one http://lists.di.uoa.gr/ ok
+
+bla
+foo
+top
+
+// Input03
+this
+is a file
+that does not contain
+any
+
+URL
+at all
+
+:)
+// Input 04
+hello ksodfaksdfoisdafiosfdjodjfaos asdfojsdf]
+f
+ereowk
+
+ijewoijr http://www.google.com/kfsdfijoier oweijrowij
+ewkropew
+paokspf
+koperkpow
+wrkpoe owekpr wepork wpkwep opoekr powe powkowkoekr wpoerk po http://www.blafoobla.com/werkweorkro
+
+sdfsd
